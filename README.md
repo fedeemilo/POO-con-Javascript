@@ -25,3 +25,25 @@
 - Aún el enfoque clásico depende del uso de prototipos.
 
 - Carece de mecanismos explícitos de POO, lo que complica su comprensión.
+
+## Situación actual y futuro de Javascript
+
+- Dos enfoques diferenciados: clásoca y por prototipos. 
+
+- Carencias en el propio lenguaje para facilitar la aplicación clásica de POO.
+
+- Existen opciones alternativas como Typescript para disponer de:
+
+    - Tipado estricto
+
+    - Palabras reservadas
+
+    - Interfaces
+
+    - Modificadores de acceso
+
+    - Genéricos
+
+    - Etc.
+
+- Comunidad no ha consensuado un modelo único de implementación.

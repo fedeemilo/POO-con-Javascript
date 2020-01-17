@@ -28,6 +28,8 @@
 
 ## Situación actual y futuro de Javascript
 
+### Actualidad
+
 - Dos enfoques diferenciados: clásoca y por prototipos. 
 
 - Carencias en el propio lenguaje para facilitar la aplicación clásica de POO.
@@ -47,3 +49,20 @@
     - Etc.
 
 - Comunidad no ha consensuado un modelo único de implementación.
+
+### Futuro
+
+- ECMAScript 6 introducirá una mejora importante para aplicar el enfoque de POO clásica:
+
+    - class
+
+    - constructor
+
+    - super
+
+    - extends
+
+    - Modules
+
+    - Etc.
+
